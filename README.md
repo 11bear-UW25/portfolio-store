@@ -146,6 +146,7 @@ Next.jsとSupabaseを用いた、自炊献立の栄養価をシミュレーシ�
 ### GitHub Actionsの実行結果
 
 GitHub Actionsを使用し、Next.jsアプリの自動ビルドチェックを実施しました。
+
 [自動ビルドチェックの実行結果はこちら](https://github.com/11bear-UW25/meal-nutrition-simulator/actions/workflows/ci.yml)
 
 ### 開発時に活用した生成AI
