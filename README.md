@@ -123,16 +123,14 @@ Next.jsとSupabaseを用いた、自炊献立の栄養価をシミュレーシ�
 ## テスト・修正の設計及び実施書
 
 単体テストおよび結合・総合テストを実施し、各機能の動作確認と修正を行いました。
-- [単体テスト設計・実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1IwKAIKxjNKAZCmbjPp_emGhW-7g4fW71-MAQ21uIvJ0/edit?gid=112983914#gid=112983914)
-- [結合・総合テスト設計・実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1vvfXB8HkLj02pjc17UgkTht1eSC1EUH_EmstMlB--KA/edit?usp=drive_web&ouid=108448841944618436003)
+
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1IwKAIKxjNKAZCmbjPp_emGhW-7g4fW71-MAQ21uIvJ0/edit?gid=112983914#gid=112983914)
 
 ## アプリの改善案
 
 ユーザーの利便性向上と、開発・運用の品質向上を目的として、機能改善・リファクタリング・CI/CDの観点から改善案を整理しました。
 
-- [ユーザー目線: 機能、UI改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yyqSY9c8tGArzVpX7ROERNkOOzOGgybNdelCAotDMZE/edit?gid=802172521#gid=802172521)
-- [開発者目線: リファクタリング_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Xksd6TMPBMvTwTYp1Jisba0HWWbNub6wfOgVHE6yZk0/edit?gid=1086381802#gid=1086381802)
-- [開発者目線: CI/CD_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Zg4yz1MaVnPOJMLHXt-SFHqjDdpVGOaZLbO69wHfxhI/edit?gid=929081680#gid=929081680)
+ [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Zg4yz1MaVnPOJMLHXt-SFHqjDdpVGOaZLbO69wHfxhI/edit?gid=929081680#gid=929081680)
 
 ## 備考
 
@@ -140,7 +138,7 @@ Next.jsとSupabaseを用いた、自炊献立の栄養価をシミュレーシ�
 
 GitHub Actionsを使用し、Next.jsアプリの自動ビルドチェックを実施しました。
 
-[GitHub Actionsの実行結果（Success）](https://github.com/11bear-UW25/meal-nutrition-simulator/actions/workflows/ci.yml)
+[GitHub Actions実行結果](https://github.com/11bear-UW25/meal-nutrition-simulator/actions/workflows/ci.yml)
 
 ### 開発時に活用した生成AI
 
