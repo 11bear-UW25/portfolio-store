@@ -130,7 +130,7 @@ Next.jsとSupabaseを用いた、自炊献立の栄養価をシミュレーシ�
 
 ユーザーの利便性向上と、開発・運用の品質向上を目的として、機能改善・リファクタリング・CI/CDの観点から改善案を整理しました。
 
- [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Zg4yz1MaVnPOJMLHXt-SFHqjDdpVGOaZLbO69wHfxhI/edit?gid=929081680#gid=929081680)
+ [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1OF6X1NRiH0_OoaQtsoZJR5IhYF2F_tfoE-DZGANQrtE/edit?gid=482600378#gid=482600378)
 
 ## 備考
 
