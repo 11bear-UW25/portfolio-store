@@ -35,7 +35,7 @@ Next.jsとSupabaseを用いた、自炊献立の栄養価をシミュレーシ�
 | フロントエンド | Next.js、React、TypeScript |
 | バックエンド | Next.js（API Route）、Supabase RPC |
 | データベース | Supabase（PostgreSQL） |
-| 認証 | Supabase Authentication（匿名認証） |
+| 認証 | Supabase Authentication（匿名認証・メール認証） |
 | セキュリティ | Row Level Security（RLS） |
 | デプロイ | Vercel |
 | 開発環境 | Visual Studio Code |
